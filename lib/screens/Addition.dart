@@ -33,7 +33,8 @@ class _AdditionState extends State<Addition> {
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
                       shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(40)
+
+                          borderRadius: BorderRadius.circular(30)
                       )
                   ),
                   onPressed:(){
